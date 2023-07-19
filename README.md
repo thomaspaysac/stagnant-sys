@@ -20,3 +20,6 @@
 - Learn more about web accessibility,
 - AngularJS,
 - Bootstrap.
+
+### Major projects
+#### Evaluate Your Sounds
