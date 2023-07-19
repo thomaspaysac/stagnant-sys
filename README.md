@@ -6,7 +6,7 @@
 
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css, md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,webpack,firebase)](https://skillicons.dev)
 
@@ -21,5 +21,11 @@
 - AngularJS,
 - Bootstrap.
 
-### Major projects
-#### Evaluate Your Sounds
+
+## Major projects
+
+### [Evaluate Your Sounds](https://github.com/stagnant-sys/rateeverything)
+A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during The Odin Project curriculum. The challenge was to reproduce a full website as close as possible.
+
+#### Tools used:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css, react, firebase, webpack)](https://skillicons.dev)
