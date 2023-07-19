@@ -3,6 +3,7 @@
 - I'm currently finishing The Odin Project curriculum to learn web development.
 - I have several finished projects which you can find in my repositories
 
+
 ### Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
@@ -10,10 +11,11 @@
 
 
 ### Currently working with:
-- React ;
+- React,
 - Firebase.
 
+
 ### What I want to learn next:
-- Learn more about web accessibility ;
-- AngularJS
-- Bootstrap
+- Learn more about web accessibility,
+- AngularJS,
+- Bootstrap.
