@@ -5,7 +5,7 @@
 - I speak french and english.
 
 
-### Languages and tools:
+### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,webpack,firebase)](https://skillicons.dev)
