@@ -34,11 +34,10 @@ A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during
 
 **Tools used:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,webpack)](https://skillicons.dev)
-
+React, Firebase, Webpack, JavaScript, HTML, CSS
 
 ### [toodoo.](https://toodoo-81e7d.web.app/) - The todo list web app
 A to-do list app that fits my need, created during The Odin Project Curriculum. 
 
 **Tools used:**
-JavaScript, HTML, CSS, Firebase, Webpack
+JavaScript, Firebase, Webpack, HTML, CSS
