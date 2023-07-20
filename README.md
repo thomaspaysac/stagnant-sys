@@ -31,4 +31,8 @@ A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,webpack)](https://skillicons.dev)
 
 
-### toodoo. - The todo list web app
+### [toodoo.](https://toodoo-81e7d.web.app/) - The todo list web app
+A to-do list app that fits my need, created during The Odin Project Curriculum. 
+
+#### Tools used:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,webpack)](https://skillicons.dev)
