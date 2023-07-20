@@ -18,9 +18,11 @@
 
 ### What I want to learn next:
 - Learn more about web accessibility,
+- TypeScript
 - AngularJS,
 - Bootstrap.
 
+---
 
 ## Major projects
 
@@ -35,5 +37,5 @@ A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during
 ### [toodoo.](https://toodoo-81e7d.web.app/) - The todo list web app
 A to-do list app that fits my need, created during The Odin Project Curriculum. 
 
-#### Tools used:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,webpack)](https://skillicons.dev)
+**Tools used:**
+JavaScript, HTML, CSS, Firebase, Webpack
