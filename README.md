@@ -33,7 +33,6 @@
 A copy of the [Rate Your Music](https://rateyourmusic.com/) website, done during The Odin Project curriculum. The challenge was to reproduce a full website as close as possible.
 
 **Tools used:**
-
 React, Firebase, Webpack, JavaScript, HTML, CSS
 
 ### [toodoo.](https://toodoo-81e7d.web.app/) - The todo list web app
