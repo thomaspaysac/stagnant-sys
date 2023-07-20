@@ -23,7 +23,9 @@
 - AngularJS,
 - Bootstrap.
 
+
 ---
+
 
 ## Major projects
 
