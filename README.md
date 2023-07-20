@@ -4,8 +4,9 @@
 - I'm currently finishing The Odin Project curriculum to learn web development,
 - I speak french and english and I'm looking for opportunities to start my career as a web developer.
 
+---
 
-### Skills:
+## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,webpack,firebase)](https://skillicons.dev)
