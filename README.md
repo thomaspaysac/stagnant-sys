@@ -18,8 +18,7 @@
 
 
 ### What I want to learn next:
-- Learn more about web accessibility,
-- TypeScript
+- TypeScript,
 - AngularJS,
 - Bootstrap.
 
