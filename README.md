@@ -12,10 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,webpack,firebase)](https://skillicons.dev)
 
 
-## Currently learning: 
-[![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
-
-
 ### What I want to learn next:
 - TypeScript,
 - AngularJS,
