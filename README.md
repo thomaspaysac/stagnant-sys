@@ -9,7 +9,7 @@
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,webpack,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,firebase,supabase)](https://skillicons.dev)
 
 
 ### What I want to learn next:
