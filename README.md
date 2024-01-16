@@ -1,8 +1,5 @@
 ## Hi, I'm Thomas! :wave: 
-**I'm a part-time fullstack developer, and when I don't work or code my main hobbies include music, books and video games.**
-
-- I'm currently finishing The Odin Project curriculum to learn web development,
-- I speak french and english and I'm looking for opportunities to start my career as a professional web developer.
+**I'm a fullstack developer, and when I don't work or code my main hobbies include music, books and video games.**
 
 ---
 
