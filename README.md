@@ -20,6 +20,12 @@
 
 ## Major projects
 
+### [Talkbook](https://talkbook-app.netlify.app/) - Social network
+A social network website inspired by Facebook, with full mobile and desktop designs.
+
+**Tools used:**
+Express, React, Supabase
+
 ### [Textera](https://textera.netlify.app/) - Messaging app
 A messaging app meant to look and act like Whatsapp, done during The Odin Project Curriculum.
 
